@@ -1,0 +1,6 @@
+﻿cmake_minimum_required(VERSION 3.9)
+project (CZSC)
+set (CZSC_VERSION_MAJOR 1)
+set (CZSC_VERSION_MINOR 0)
+aux_source_directory(. SRCS)
+add_library(CZSC SHARED ${SRCS})

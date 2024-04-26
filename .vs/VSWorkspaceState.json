@@ -1,0 +1,15 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "\u672C\u5730\u8BA1\u7B97\u673A": [
+      "out\\build\\x86-Release",
+      "out\\install\\x86-Release"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\out",
+    "\\out\\build"
+  ],
+  "SelectedNode": "\\Makefile",
+  "PreviewInSolutionExplorer": false
+}
